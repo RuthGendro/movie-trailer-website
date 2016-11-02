@@ -25,3 +25,4 @@ deadpool = media.Movie("Deadpool",
 movies = [harry_potter, lord_of_the_rings, the_hunger_games, deadpool]
 
 fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.valid_ratings)
